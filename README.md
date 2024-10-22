@@ -22,4 +22,3 @@ I'm passionate about programming and game development. I love building projects 
 ## 📫 How to reach me:
 - **Email**: admin@commit420.de 
 
-Feel free to check out my repositories and don't hesitate to reach out if you want to collaborate or chat about game development.
