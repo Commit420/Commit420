@@ -11,7 +11,7 @@ I'm passionate about programming and game development. I love building projects 
 
 ## 🎮 Projects I'm working on:
 - A **2D Tile-based Game** 
-- A **C++ Learning**
+- **C++ Learning**
 
 ## 🌱 What I'm learning:
 - Improving my knowledge of **game engines** and performance optimization.
