@@ -17,7 +17,6 @@ I'm passionate about programming and game development. I love building projects 
 
 ## 🚀 Fun Facts:
 - I enjoy creating custom game mechanics, and I’m always experimenting with new ideas for future projects.
-- I recently got my driver's license and now enjoy riding my AM scooter! 🛵
 
 ## 📫 How to reach me:
 - **Email**: your-email@example.com (optional)
