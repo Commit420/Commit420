@@ -1,4 +1,4 @@
-# Hi, I'm Samuel 👋
+# Hi, I'm Samu 👋
 
 I'm passionate about programming and game development. I love building projects that bring ideas to life and learning new skills along the way.
 
