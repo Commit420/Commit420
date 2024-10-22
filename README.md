@@ -10,12 +10,10 @@ I'm passionate about programming and game development. I love building projects 
   - Python
 
 ## 🎮 Projects I'm working on:
-- **3D Shooter in Java** using **JMonkeyEngine**
-- A **2D Tile-based Game** with custom mechanics and an inventory system
+- A **2D Tile-based Game** 
 
 ## 🌱 What I'm learning:
 - Improving my knowledge of **game engines** and performance optimization.
-- Expanding my skillset with **3D rendering** techniques and physics simulations.
 
 ## 🚀 Fun Facts:
 - I enjoy creating custom game mechanics, and I’m always experimenting with new ideas for future projects.
