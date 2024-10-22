@@ -10,7 +10,7 @@ I'm passionate about programming and game development. I love building projects 
   - Python
 
 ## 🎮 Projects I'm working on:
-- NovaNET Browser
+- **NovaNET Browser**
 - A **2D Tile-based Game** 
 - **C++ Learning**
 
