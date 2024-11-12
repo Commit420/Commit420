@@ -11,7 +11,8 @@ I'm passionate about programming and game development. I love building projects 
 
 ## 🎮 Projects I'm working on:
 - **NovaNET Browser**
-- A **2D Tile-based Game** 
+- A **2D Tile-based Game**
+- **MixNET**
 - **C++ Learning**
 - **Hosting-System**
 
