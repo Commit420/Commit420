@@ -62,7 +62,7 @@ Here are some of the projects I've been working on recently:
 
 ---
 
-## 🚨 Fun with Badges
+## 🚨 Badges
 
 - ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=samuel.visitor)
 - ![Awesome Badge](https://img.shields.io/badge/Awesome%20Projects-%F0%9F%A4%9D-blue)
