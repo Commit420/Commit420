@@ -41,9 +41,8 @@ Some of the tools I use in my projects:
 
 Let's collaborate, chat, or just connect! 😄
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com)
-[![Twitter](https://img.shields.io/badge/Twitter-lightblue?style=flat&logo=twitter&logoColor=white)](https://twitter.com)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/samu_b2008)
+[![Twitter](https://img.shields.io/badge/Twitter-lightblue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@nexiscode)
 
 ---
 
