@@ -57,9 +57,9 @@ Let's collaborate, chat, or just connect! 😄
 
 Here are some of the projects I've been working on recently:
 
-- **[NovaNet Browser](https://github.com/samuel/NovaNet)**: A stylish web browser with modern features and sleek design. 🧑‍💻
-- **[Nexiscode Shop](https://github.com/samuel/NexiscodeShop)**: An online shop with cool hosting packages, modern design, and custom features. 🛍️
-- **[Server Panel](https://github.com/samuel/ServerPanel)**: A modernized server panel with a file manager, console, and server control features. ⚙️
+- **[NovaNet Browser]**: A stylish web browser with modern features and sleek design. 🧑‍💻
+- **[Nexiscode Shop]**: An online shop with cool hosting packages, modern design, and custom features. 🛍️
+- **[Server Panel]**: A modernized server panel with a file manager, console, and server control features. ⚙️
 
 ---
 
