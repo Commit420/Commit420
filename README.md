@@ -48,7 +48,7 @@ Let's collaborate, chat, or just connect! 😄
 
 ## 📈 GitHub Stats
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel&show_icons=true&theme=radical&hide_title=true&count_private=true)
+![commit420's GitHub Stats](https://github-readme-stats.vercel.app/api?username=commit420&show_icons=true&theme=radical&hide_title=true&count_private=true)
 
 ---
 
