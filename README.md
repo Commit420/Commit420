@@ -42,7 +42,7 @@ Some of the tools I use in my projects:
 Let's collaborate, chat, or just connect! 😄
 
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nexiscode)
-[![Twitter](https://img.shields.io/badge/Twitter-lightblue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@nexiscode)
+[![X](https://img.shields.io/badge/X-lightblue?style=flat&logo=x&logoColor=white)](https://x.com/@nexiscode)
 
 ---
 
