@@ -8,11 +8,6 @@
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Commit420/Commit420/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Commit420/Commit420/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Commit420/Commit420/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
@@ -50,12 +45,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Commit420&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Commit420&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=00d4ff" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Commit420&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=00d4ff" />
 
 <br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Commit420&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
